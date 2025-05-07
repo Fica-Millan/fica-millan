@@ -9,7 +9,6 @@
 ---
 
 ¡Hola! Soy Fica 🧩 
-Desarrolladora Back-end Junior | Analista de Sistemas | Licenciada en Administración
 
 Después de una sólida trayectoria en áreas financieras y contables, decidí redirigir mi carrera hacia el desarrollo de software. Me gradué como Analista de Sistemas en diciembre de 2024 🎓 y actualmente estoy profundizando mis conocimientos a través de una Especialización en Ciencia de Datos 📊. Esta combinación me permite abordar los problemas desde una perspectiva analítica y técnica, con foco en la eficiencia, automatización y calidad de los procesos.
 
