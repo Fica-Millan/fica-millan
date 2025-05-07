@@ -8,19 +8,22 @@
 
 ---
 
-¡Hola! Soy Fica, una Desarrolladora Back-end Junior, recientemente graduada como Analista de Sistemas (diciembre 2024) y Licenciada en Administración. Después de varios años en el ámbito administrativo, decidí redirigir mi carrera hacia la programación, enfocándome en el desarrollo backend.
+¡Hola! Soy Fica 🧩 
+Desarrolladora Back-end Junior | Analista de Sistemas | Licenciada en Administración
 
-Trabajo con tecnologías como Java, Spring Boot, Hibernate y APIs RESTful, con un interés especial en crear soluciones eficientes, escalables y fáciles de mantener. Además, disfruto mucho de la documentación: me gusta comentar el código y crear guías claras que faciliten el trabajo en equipo y el mantenimiento futuro de los sistemas.
+Después de una sólida trayectoria en áreas financieras y contables, decidí redirigir mi carrera hacia el desarrollo de software. Me gradué como Analista de Sistemas en diciembre de 2024 🎓 y actualmente estoy profundizando mis conocimientos a través de una Especialización en Ciencia de Datos 📊. Esta combinación me permite abordar los problemas desde una perspectiva analítica y técnica, con foco en la eficiencia, automatización y calidad de los procesos.
 
-Utilizo herramientas como Swagger, Postman e Insomnia para asegurar la calidad y funcionalidad de los servicios web que desarrollo. Estoy comprometida con el aprendizaje continuo, perfeccionando mis habilidades en desarrollo de software escalable, bases de datos SQL y buenas prácticas de programación.
+Trabajo principalmente con tecnologías como Java, Spring Boot, Hibernate y APIs RESTful 💻, aplicando buenas prácticas de desarrollo para crear soluciones robustas, escalables y mantenibles. Disfruto particularmente del trabajo bien documentado 📝: me gusta escribir código limpio, comentar con claridad y elaborar guías que faciliten la colaboración y el mantenimiento a largo plazo.
+
+Me apoyo en herramientas como Swagger, Postman e Insomnia para probar y validar los servicios web que desarrollo, y me encuentro en constante aprendizaje para seguir creciendo en el desarrollo backend, el análisis de datos y la ingeniería de software.
 
 > "El aprendizaje es continuo, y cada desafío es una oportunidad para crecer."
 
-Mi objetivo es seguir aprendiendo, aportar valor a los proyectos en los que participo y construir sistemas robustos que optimicen procesos y resuelvan problemas de manera efectiva.
-
+Mi objetivo es seguir construyendo sistemas que resuelvan problemas reales 🔍, optimicen procesos y generen valor. Soy proactiva, orientada a resultados ✅ y me adapto con facilidad a nuevos entornos y tecnologías 🌐.
 
 ## 🎓 Educación y Certificaciones
 
+- **Especialización en Ciencia de Datos** - Universidad Nacional de La Matanza | en curso
 - **Tecnicatura en Análisis de Sistemas** - Instituto Raúl Scalabrini Ortiz | Graduada en 2024
 - **Licenciatura en Administración** - Universidad Nacional de La Matanza | Graduada en 2008
 - **Certificaciones en Desarrollo Back-end y Full Stack**:
@@ -58,6 +61,8 @@ Mi objetivo es seguir aprendiendo, aportar valor a los proyectos en los que part
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![KNIME Badge](https://img.shields.io/badge/KNIME-FFC000?style=flat-square&logo=knime&logoColor=black)
+
 
 ## 📫 ¡Hablemos!
 
