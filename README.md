@@ -1,16 +1,15 @@
 # ✨ Yesica Fica Millán
 
-**Desarrolladora Back-end Junior** | **Analista de Sistemas** | **Lic. en Administración**
+**Profesional en transición hacia Datos & Desarrollo Backend** | **Experiencia en Finanzas y Tecnología**
+> Apasionada por crear soluciones sólidas con impacto real, combinando datos, lógica y automatización.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Yesica%20Fica%20Millán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yesica-fica-millan)](https://www.linkedin.com/in/yesica-fica-millan)
 [![GitHub Badge](https://img.shields.io/badge/-fica--millan-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/fica-millan)](https://github.com/fica-millan)
 [![Email Badge](https://img.shields.io/badge/-ficamillan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ficamillan@gmail.com)](mailto:ficamillan@gmail.com)
 
----
+¡Hola! Soy Fica 👋🏻
 
-¡Hola! Soy Fica 🧩 
-
-Después de una sólida trayectoria en áreas financieras y contables, decidí redirigir mi carrera hacia el desarrollo de software. Me gradué como Analista de Sistemas en diciembre de 2024 🎓 y actualmente estoy profundizando mis conocimientos a través de una Especialización en Ciencia de Datos 📊. Esta combinación me permite abordar los problemas desde una perspectiva analítica y técnica, con foco en la eficiencia, automatización y calidad de los procesos.
+Después de una sólida trayectoria en áreas financieras y contables, decidí redirigir mi carrera hacia el desarrollo de software. Me gradué como Analista de Sistemas en 2024 🎓 y actualmente curso una Especialización en Ciencia de Datos 📊 para seguir profundizando mi perfil técnico-analítico. Esta combinación me permite abordar los problemas desde una perspectiva analítica y técnica, con foco en la eficiencia, automatización y calidad de los procesos.
 
 Trabajo principalmente con tecnologías como Java, Spring Boot, Hibernate y APIs RESTful 💻, aplicando buenas prácticas de desarrollo para crear soluciones robustas, escalables y mantenibles. Disfruto particularmente del trabajo bien documentado 📝: me gusta escribir código limpio, comentar con claridad y elaborar guías que faciliten la colaboración y el mantenimiento a largo plazo.
 
@@ -52,6 +51,8 @@ Mi objetivo es seguir construyendo sistemas que resuelvan problemas reales 🔍,
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
+- **Ciencia de Datos y Análisis**: ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![KNIME Badge](https://img.shields.io/badge/KNIME-FFC000?style=flat-square&logo=knime&logoColor=black)
+
 - **Herramientas**: 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -60,14 +61,23 @@ Mi objetivo es seguir construyendo sistemas que resuelvan problemas reales 🔍,
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![KNIME Badge](https://img.shields.io/badge/KNIME-FFC000?style=flat-square&logo=knime&logoColor=black)
 
+## 🧠 Intereses Actuales
+
+- Desarrollo backend con Java y APIs REST
+- Ciencia de datos aplicada a problemas reales
+- Automatización de procesos y eficiencia operativa
+- Interfaces humano-IA (chatbots, asistentes inteligentes)
 
 ## 📫 ¡Hablemos!
 
-Estoy abierta a nuevas conexiones y oportunidades laborales. Si tienes algún proyecto interesante o simplemente quieres conectar, no dudes en **contactarme**.
+Gracias por visitar mi perfil. Estoy abierta a oportunidades donde pueda crecer, colaborar y generar impacto.  
+¡Hablemos! 😊
 
----
+## 💭 Reflexión
+
+*"La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote."*  
+— *Albert Einstein*
 
 ## 📊 Estadísticas de GitHub
 
@@ -75,11 +85,10 @@ Estoy abierta a nuevas conexiones y oportunidades laborales. Si tienes algún pr
 
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Fica-Millan&layout=compact&hide_border=true&theme=radical)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fica-Millan&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-## 💭 Reflexión
+## 🏆 Trofeos de GitHub
 
-*"La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote."*  
-— *Albert Einstein*
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fica-Millan&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
