@@ -1,23 +1,73 @@
 # ✨ Yesica Fica Millán
 
-**Profesional en transición hacia Datos & Desarrollo Backend** | **Experiencia en Finanzas y Tecnología**
-> Apasionada por crear soluciones sólidas con impacto real, combinando datos, lógica y automatización.
+**Profesional en transición hacia Datos & Desarrollo Backend** | **Apasionada por IA y Machine Learning**  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Yesica%20Fica%20Millán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yesica-fica-millan)](https://www.linkedin.com/in/yesica-fica-millan)
-[![GitHub Badge](https://img.shields.io/badge/-fica--millan-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/fica-millan)](https://github.com/fica-millan)
-[![Email Badge](https://img.shields.io/badge/-ficamillan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ficamillan@gmail.com)](mailto:ficamillan@gmail.com)
+> Mi objetivo es crear soluciones sólidas con impacto real, combinando datos, lógica y automatización.  
 
-¡Hola! Soy Fica 👋🏻
+[![LinkedIn Badge](https://img.shields.io/badge/-Yesica%20Fica%20Millán-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesica-fica-millan)
+[![Email Badge](https://img.shields.io/badge/-ficamillan@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:ficamillan@gmail.com)
 
-Después de una sólida trayectoria en áreas financieras y contables, decidí redirigir mi carrera hacia el desarrollo de software. Me gradué como Analista de Sistemas en 2024 🎓 y actualmente curso una Especialización en Ciencia de Datos 📊 para seguir profundizando mi perfil técnico-analítico. Esta combinación me permite abordar los problemas desde una perspectiva analítica y técnica, con foco en la eficiencia, automatización y calidad de los procesos.
+## 👩‍💻 Sobre mí
 
-Trabajo principalmente con tecnologías como Java, Spring Boot, Hibernate y APIs RESTful 💻, aplicando buenas prácticas de desarrollo para crear soluciones robustas, escalables y mantenibles. Disfruto particularmente del trabajo bien documentado 📝: me gusta escribir código limpio, comentar con claridad y elaborar guías que faciliten la colaboración y el mantenimiento a largo plazo.
+Soy Analista de Sistemas con formación en Administración y un fuerte interés en Inteligencia Artificial y Machine Learning.  
 
-Me apoyo en herramientas como Swagger, Postman e Insomnia para probar y validar los servicios web que desarrollo, y me encuentro en constante aprendizaje para seguir creciendo en el desarrollo backend, el análisis de datos y la ingeniería de software.
+Mi camino en tecnología comenzó en 2022, estudiando Analista de Sistemas y complementando con cursos de Java, Spring Boot, desarrollo web y más. Descubrí que disfruto mucho de la programación, la resolución de problemas y el análisis de datos.  
+
+Actualmente estoy cursando una **Especialización en Ciencia de Datos (UNLaM)**, donde me enfoco en Python, análisis de datos, modelado predictivo y minería de datos.  
 
 > "El aprendizaje es continuo, y cada desafío es una oportunidad para crecer."
 
-Mi objetivo es seguir construyendo sistemas que resuelvan problemas reales 🔍, optimicen procesos y generen valor. Soy proactiva, orientada a resultados ✅ y me adapto con facilidad a nuevos entornos y tecnologías 🌐.
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes de Programación**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- **Frameworks & Librerías**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FFC000?style=flat-square&logo=knime&logoColor=black)
+
+- **Bases de Datos**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+- **Herramientas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+
+## 🧠 Áreas de interés
+
+- Machine Learning & IA Generativa 🤖  
+- Automatización de procesos ⚡
+- Análisis de datos 📊
+- Desarrollo backend 💻  
+
+
+## 📊 Proyectos destacados
+
+Durante mi especialización, desarrollé proyectos prácticos en Python, R y KNIME:  
+
+- **Análisis de viajes en transporte público (SUBE 2024/2025)** 🚇 *(Python)* [Repo](https://github.com/Fica-Millan/unlam_EDA-transporte-sube)  
+  Exploración de datos, EDA, enriquecimiento con APIs y web scraping, comparación interanual.  
+
+- **Predicción de demanda energética del SADI** ⚡ *(KNIME)* [Repo](https://github.com/Fica-Millan/unlam_Prediccion-demanda-sadi)   
+  Modelado predictivo para optimizar la gestión de energía.  
+
+- **Estimación de porcentaje de grasa corporal (GRC)** 🏋️‍♀️ *(R)* [Repo](https://github.com/Fica-Millan/unlam_Modelado-predictivo-miopia-infantil)   
+  Regresión lineal múltiple con variables antropométricas, orientado a seguimiento clínico.  
+
+- **Modelado predictivo de miopía infantil** 👁️ *(R)* [Repo](https://github.com/Fica-Millan/unlam_Modelado-predictivo-miopia-infantil)   
+  Identificación de factores de riesgo para detección temprana.  
 
 ## 🎓 Educación y Certificaciones
 
@@ -29,50 +79,10 @@ Mi objetivo es seguir construyendo sistemas que resuelvan problemas reales 🔍,
   - Desarrollo Full Stack PHP - Codo a Codo | 2024
   - JavaScript y Desarrollo Web - CoderHouse | 2023
 
-## 🛠️ Habilidades Técnicas
+## 📫 Contacto
 
-- **Lenguajes de Programación**:
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-- **Front-End**:
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-- **Frameworks**: 
-![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-- **Bases de Datos**:
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
-- **Ciencia de Datos y Análisis**: ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![KNIME Badge](https://img.shields.io/badge/KNIME-FFC000?style=flat-square&logo=knime&logoColor=black)
-
-- **Herramientas**: 
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Insomnia Badge](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-
-## 🧠 Intereses Actuales
-
-- Desarrollo backend con Java y APIs REST
-- Ciencia de datos aplicada a problemas reales
-- Automatización de procesos y eficiencia operativa
-- Interfaces humano-IA (chatbots, asistentes inteligentes)
-
-## 📫 ¡Hablemos!
-
-Gracias por visitar mi perfil. Estoy abierta a oportunidades donde pueda crecer, colaborar y generar impacto.  
-¡Hablemos! 😊
+Estoy abierta a **colaboraciones, ideas y oportunidades en IA y Ciencia de Datos**.  
+¡Conectemos! 🌐  
 
 ## 💭 Reflexión
 
@@ -90,5 +100,17 @@ Gracias por visitar mi perfil. Estoy abierta a oportunidades donde pueda crecer,
 ## 🏆 Trofeos de GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fica-Millan&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
