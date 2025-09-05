@@ -2,10 +2,19 @@
 
 **Profesional en transición hacia Datos & Desarrollo Backend** | **Apasionada por IA y Machine Learning**  
 
-> Mi objetivo es crear soluciones sólidas con impacto real, combinando datos, lógica y automatización.  
+> Mi objetivo es crear soluciones sólidas con impacto real, combinando datos, lógica y automatización.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Yesica%20Fica%20Millán-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesica-fica-millan)
-[![Email Badge](https://img.shields.io/badge/-ficamillan@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:ficamillan@gmail.com)
+<p>
+  <strong>LinkedIn</strong> 🔗 
+  <a href="https://www.linkedin.com/in/yesica-fica-millan">
+    <img src="https://img.shields.io/badge/-Yesica%20Fica%20Millán-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;&nbsp; 
+  <strong>E-mail</strong> 
+  <a href="mailto:ficamillan@gmail.com">
+    <img src="https://img.shields.io/badge/-ficamillan@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 ## 👩‍💻 Sobre mí
 
