@@ -1,6 +1,6 @@
 # ✨ Yesica Fica Millán
 
-**Profesional en transición hacia Datos & Desarrollo Backend** | **Apasionada por IA y Machine Learning**  
+**Data Scientist & Desarrollo Backend** | **Apasionada por IA y Machine Learning**  
 
 > Mi objetivo es crear soluciones sólidas con impacto real, combinando datos, lógica y automatización.
 
